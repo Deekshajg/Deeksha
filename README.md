@@ -48,5 +48,5 @@ int main() {
     // Generate and print ASCII art
     generateAsciiArt(userInput);
 
-    return 0;
+    return (0);
 }
